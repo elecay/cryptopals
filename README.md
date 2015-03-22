@@ -1,2 +1,3 @@
-# cryptopals
-Solutions for cryptopals.com with Java
+# Cryptopals
+
+Solutions for cryptopals.com using Java.
