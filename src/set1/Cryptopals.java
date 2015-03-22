@@ -115,7 +115,7 @@ public class Cryptopals {
     }
     
     public static byte[] breakingRepeatingKeyXor(byte[] textInBytes) {
-        // Smallest distance. We can add distance of 3 or 4... if we can.
+        // Smallest distance. We can add distance of 3 or 4, etc., if we want to.
         Map <Integer, Boolean> validDistances = new HashMap<>();
         validDistances.put(1, true);
         validDistances.put(2, true);
